@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.tittle{
+    margin: 20px;
+}
+
+
+.containerButtons
+{
+    margin: 30px;
+}
+
+.containerPicture button{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: rgb(210, 210, 172);
+    cursor: pointer;
+}
